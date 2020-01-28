@@ -1,0 +1,63 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Gimicks/SignBoard/SignBord.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Gimicks/CollectGimick/CollectGimick.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Characters/Player/PlayerStateMachine/PlayerAttackingCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Characters/Player/PlayerStateMachine/PlayerDamagingCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AffordanceTrigger/AffordanceTrigger.cs" Line="58" Column="54" />
+      <File FileName="Assets/Scripts/Others/AutoMoveObserver.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Others/AudioDirector.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Weapons/WeaponStatus.cs" Line="116" Column="34" />
+      <File FileName="Assets/Scripts/Weapons/BulletBase.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Weapons/WeaponStateMachine/WeaponStateMachine.cs" Line="90" Column="5" />
+      <File FileName="Assets/Scripts/Weapons/WeaponStateMachine/WeaponState.cs" Line="17" Column="31" />
+      <File FileName="Assets/Scripts/Weapons/WeaponStateMachine/WeaponCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Weapons/WeaponStateMachine/BaseWeaponCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Characters/Player/PlayerDirector.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Characters/Player/PlayerStateMachine/PlayerStateMachine.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Characters/Player/PlayerStateMachine/PlayerStateEntry.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Weapons/EnemyWeapon/FireBall.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Weapons/HodainGrub/HodainBall.cs" Line="53" Column="33" />
+      <File FileName="Assets/Scripts/Weapons/WeaponStateMachine/WeaponEntry.cs" Line="35" Column="20" />
+      <File FileName="Assets/Scripts/Characters/CharacterAdapter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Characters/Player/PlayerStatus.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UIs/WeaponUI/ChangingWeaponUI.cs" Line="49" Column="33" />
+      <File FileName="Assets/Scripts/Cameras/CameraDirector.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Cameras/CameraObserver.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Cameras/PlayerCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Cameras/CameraAdapter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameFlow/GameOver.cs" Line="38" Column="25" />
+      <File FileName="Assets/Scripts/GameFlow/GameDirector.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UIs/PauseUI/PauseUI.cs" Line="18" Column="3" />
+      <File FileName="Assets/Scripts/Characters/Enemies/EnemyStatus.cs" Line="276" Column="19" />
+      <File FileName="Assets/Scripts/UIs/UIDirector.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UIs/BaseUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UIs/HPBerUI/HealthUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UIs/InformationUI/ConversationUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UIs/InformationUI/BalloonIconUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Gimicks/SignBoard/SignBord.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Gimicks/SignBoard/Sentence.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameFlow/ToMain.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameFlow/ToGameOver.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameFlow/MainStage/MovieStart.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameFlow/MovieDirector.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Others/OtherDirector.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Others/AnimDirector.cs" Line="82" Column="63" />
+      <File FileName="Assets/Scripts/Weapons/Gun/Bullet.cs" Line="31" Column="24" />
+      <File FileName="Assets/Scripts/Characters/Enemies/BehaviorTree/EnemyTreeOfShooter.cs" Line="65" Column="35" />
+      <File FileName="Assets/Scripts/Characters/Enemies/BelgianAI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AffordanceTrigger/ATHidePoint.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Characters/CharacterObserver.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Characters/Enemies/EnemyTrigger.cs" Line="30" Column="10" />
+      <File FileName="Assets/Scripts/Characters/Enemies/MetaAI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Gimicks/Door/ActiveObjToEneGroup.cs" Line="11" Column="25" />
+      <File FileName="Assets/Scripts/Gimicks/Item/item.cs" Line="21" Column="24" />
+      <File FileName="Assets/Scripts/Characters/Player/PlayerInventory.cs" Line="49" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
