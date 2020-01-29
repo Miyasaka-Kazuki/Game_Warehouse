@@ -27,6 +27,6 @@
 * [*Windows版*](https://drive.google.com/open?id=1_76dCtj9TfSU7hp5Kz--iNswPFsNEfV3)
 
 ### サンプル画像
-![サンプル1](https://github.com/Miyasaka-Kazuki/Game_Warehouse/Cannon/Images/sample1.png)
+![サンプル1](https://user-images.githubusercontent.com/22866483/73369104-6957bd80-42f5-11ea-829f-6a758c74c91d.png)
 ![サンプル2](https://github.com/Miyasaka-Kazuki/Game_Warehouse/Cannon/Images/sample2.png)
 ![サンプル3](https://github.com/Miyasaka-Kazuki/Game_Warehouse/Cannon/Images/sample3.png)
