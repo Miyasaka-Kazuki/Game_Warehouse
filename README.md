@@ -24,3 +24,8 @@
 
 * [*MacOS版*](https://drive.google.com/open?id=1DUQVdnhTHa7neT7xBbExi40uEGe_NLE3)
 * [*Windows版*](https://drive.google.com/open?id=1_76dCtj9TfSU7hp5Kz--iNswPFsNEfV3)
+
+### サンプGIF
+![サンプル1](Cannon/images/sample1.gif)
+![サンプル2](Cannon/images/sample2.gif)
+![サンプル3](Cannon/images/sample3.gif)
