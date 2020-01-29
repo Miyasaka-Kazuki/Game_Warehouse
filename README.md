@@ -22,5 +22,5 @@
 ### 公開場所
 下記でダウンロードすると遊べます(キーボード or ELECOMのジョイコンで操作)
 
-* [*MacOS版*](https://drive.google.com/open?id=1Sfp5fLaOzio4TGlfaJ5d5gErx8YValt1)
-* [*Windows版*](https://drive.google.com/open?id=1pR89e2ievMvFnsVbMLP0qEdvUCbubiOW)
+* [*MacOS版*](https://drive.google.com/open?id=1DUQVdnhTHa7neT7xBbExi40uEGe_NLE3)
+* [*Windows版*](https://drive.google.com/open?id=1_76dCtj9TfSU7hp5Kz--iNswPFsNEfV3)
