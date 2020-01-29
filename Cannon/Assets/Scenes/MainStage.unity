@@ -2035,8 +2035,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b29d729a5b329146b2b15f7e373a6db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  property: 0
-  planeDestination: {fileID: 88021952}
 --- !u!114 &88021955
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2690,8 +2688,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 855edcc06323ec34b89597023209db04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isToPlayer: 1
-  cameraSpeed: 7
 --- !u!65 &115735139
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13847,10 +13843,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 29d6fe3dfa620a341ac541a372712c30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletPrefab: {fileID: 1263768196319936, guid: c5e5e5c75cefba24db29a1368a3fbb27,
-    type: 2}
-  instancePosition: {fileID: 1089151546}
-  zoomScalar: 0
 --- !u!114 &586148972
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13873,8 +13865,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 892f17c88aacac24999e7ca03d0e798b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 100
-  searchArea: {fileID: 83341803}
 --- !u!135 &586148974
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -18016,8 +18006,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 892f17c88aacac24999e7ca03d0e798b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 100
-  searchArea: {fileID: 562551997}
 --- !u!135 &743386228
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -18052,10 +18040,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 29d6fe3dfa620a341ac541a372712c30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletPrefab: {fileID: 1263768196319936, guid: c5e5e5c75cefba24db29a1368a3fbb27,
-    type: 2}
-  instancePosition: {fileID: 2007840856}
-  zoomScalar: 0
 --- !u!114 &743386231
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18356,10 +18340,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 29d6fe3dfa620a341ac541a372712c30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletPrefab: {fileID: 1263768196319936, guid: c5e5e5c75cefba24db29a1368a3fbb27,
-    type: 2}
-  instancePosition: {fileID: 1792691728}
-  zoomScalar: 0
 --- !u!114 &760267764
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18382,8 +18362,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 892f17c88aacac24999e7ca03d0e798b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 100
-  searchArea: {fileID: 2028736580}
 --- !u!135 &760267766
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -19447,8 +19425,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b29d729a5b329146b2b15f7e373a6db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  property: 0
-  planeDestination: {fileID: 799799202}
 --- !u!135 &799799205
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -27255,8 +27231,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b29d729a5b329146b2b15f7e373a6db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  property: 0
-  planeDestination: {fileID: 1130886239}
 --- !u!135 &1130886242
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -28247,8 +28221,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b29d729a5b329146b2b15f7e373a6db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  property: 0
-  planeDestination: {fileID: 1175488096}
 --- !u!135 &1175488099
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -32503,8 +32475,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b29d729a5b329146b2b15f7e373a6db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  property: 0
-  planeDestination: {fileID: 1396628205}
 --- !u!135 &1396628208
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -34139,8 +34109,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b29d729a5b329146b2b15f7e373a6db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  property: 0
-  planeDestination: {fileID: 1466818550}
 --- !u!135 &1466818553
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -34719,10 +34687,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 29d6fe3dfa620a341ac541a372712c30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletPrefab: {fileID: 1263768196319936, guid: c5e5e5c75cefba24db29a1368a3fbb27,
-    type: 2}
-  instancePosition: {fileID: 834496936}
-  zoomScalar: 0
 --- !u!114 &1496513270
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34745,8 +34709,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 892f17c88aacac24999e7ca03d0e798b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 100
-  searchArea: {fileID: 1465510353}
 --- !u!135 &1496513272
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -35610,8 +35572,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b29d729a5b329146b2b15f7e373a6db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  property: 0
-  planeDestination: {fileID: 1536135280}
 --- !u!135 &1536135283
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -35834,8 +35794,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b29d729a5b329146b2b15f7e373a6db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  property: 0
-  planeDestination: {fileID: 1544799861}
 --- !u!135 &1544799864
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -37575,8 +37533,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b29d729a5b329146b2b15f7e373a6db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  property: 0
-  planeDestination: {fileID: 1620889010}
 --- !u!135 &1620889013
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -43493,8 +43449,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b29d729a5b329146b2b15f7e373a6db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  property: 0
-  planeDestination: {fileID: 1932593516}
 --- !u!135 &1932593518
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -46906,7 +46860,7 @@ Prefab:
     - target: {fileID: 114966078993040788, guid: da89d11a5da6dd343ae38be13d1f9caa,
         type: 2}
       propertyPath: sentence.Array.data[0]
-      value: "\u5341\u5B57\u30AD\u30FC\u4E0A\u306E\u300C\u308D\u300D(JoyCon4)\u30DC\u30BF\u30F3\u3092\u62BC\u3059\u3053\u3068\u3067\u7832\u53F0\u3092\u8A2D\u7F6E\u3067\u304D\u307E\u3059\u3002"
+      value: "\u5341\u5B57\u30AD\u30FC\u4E0A\u306E\u300C\u3080\u300D(JoyCon4)\u30DC\u30BF\u30F3\u3092\u62BC\u3059\u3053\u3068\u3067\u7832\u53F0\u3092\u8A2D\u7F6E\u3067\u304D\u307E\u3059\u3002"
       objectReference: {fileID: 0}
     - target: {fileID: 114966078993040788, guid: da89d11a5da6dd343ae38be13d1f9caa,
         type: 2}
