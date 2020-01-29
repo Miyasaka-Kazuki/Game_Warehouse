@@ -4,6 +4,7 @@
 
 ## 1作品目: Cannon
 ### 概要
+* 概要: 砲台を様々な場所に生やし，自分は敵の攻撃に当たらないよう逃げるように立ち回って進めていくゲームです。ボス戦もあるのでぜひクリアしてください。
 * ジャンル: ３Dアクションゲーム
 * 作成期間: 半年
 * 作成人数: 2人
@@ -25,7 +26,7 @@
 * [*MacOS版*](https://drive.google.com/open?id=1DUQVdnhTHa7neT7xBbExi40uEGe_NLE3)
 * [*Windows版*](https://drive.google.com/open?id=1_76dCtj9TfSU7hp5Kz--iNswPFsNEfV3)
 
-### サンプGIF
-![サンプル1](Cannon/images/sample1.gif)
-![サンプル2](Cannon/images/sample2.gif)
-![サンプル3](Cannon/images/sample3.gif)
+### サンプル画像
+![サンプル1](Cannon/images/sample1.png)
+![サンプル2](Cannon/images/sample2.png)
+![サンプル3](Cannon/images/sample3.png)
